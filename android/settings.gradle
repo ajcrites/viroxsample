@@ -1,0 +1,3 @@
+rootProject.name = 'viroxsample'
+
+include ':app'
